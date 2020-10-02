@@ -16,6 +16,6 @@ etc. by training those with available data and testing the model efficiency with
 data and deploying the model which is giving more accuracy to predict any fraud
 transaction in real-time easily, making transactions more secure.
 
-Data in credit card.csv was in very unbalanced format so i used smote method to balance the data and then used Decision Tree algorithm to build model.
+Data in credit card.csv was in very unbalanced format so i used **SMOTE** *(Synthetic Minority Oversampling Technique)* method to balance the data and then used **Decision Tree** algorithm to build model.                                                 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
